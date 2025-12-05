@@ -16,10 +16,10 @@ let socks5Enable = false;
 let parsedSocks5 = {};
 
 let ipLocal = [
-    'wto.org:443#youtube.com/@am_clubs 数字套利(视频教程)',
-    'icook.hk#t.me/am_clubs TG群(加入解锁更多节点)',
-    'time.is#github.com/amclubs GitHub仓库(关注查看新功能)',
-    '127.0.0.1:1234#amclubss.com 博客教程(cfnat)'
+    'wto.org:443#blacker',
+    'icook.hk#blacker',
+    'time.is#blacker',
+    '127.0.0.1:1234#blacker'
 ];
 
 const defaultIpUrlTxt = base64Decode('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2FtY2x1YnMvYW0tY2YtdHVubmVsL21haW4vaXB2NC50eHQ=');
