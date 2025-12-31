@@ -709,7 +709,7 @@ function getConfigLink(uuid, host, address, port, remarks, proxyip, protType, na
     if (s5) {
         pathParm = pathParm + `&S5=${s5}`;
     }
-    let path = `/?ed=2560` + pathParm;
+    let path = `/?ed=2048` + pathParm;
     const fp = 'randomized';
     let tls = ['tls', true];
     if (host.includes('.workers.dev') || host.includes('pages.dev')) {
